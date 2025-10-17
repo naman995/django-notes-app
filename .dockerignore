@@ -1,0 +1,5 @@
+data/
+*.log
+.git
+.gitignore
+__pycache__/
