@@ -5,14 +5,6 @@ pipeline {
     agent any;
 
     stages {
-        stage('Hello') {
-            steps {
-                script {
-                    hello()
-                }
-            }
-        }
-
         stage('Cloning') {
             steps {
                 // echo 'Code Cloning'
