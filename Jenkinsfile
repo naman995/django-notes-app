@@ -62,4 +62,4 @@ pipeline {
         }
     }
 }
-// This JenkinsFile use shared library
+// This JenkinsFile use shared library2
